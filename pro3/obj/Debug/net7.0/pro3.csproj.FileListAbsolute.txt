@@ -1,0 +1,14 @@
+C:\Users\Apple\Desktop\sample5\pro3\bin\Debug\net7.0\pro3.exe
+C:\Users\Apple\Desktop\sample5\pro3\bin\Debug\net7.0\pro3.deps.json
+C:\Users\Apple\Desktop\sample5\pro3\bin\Debug\net7.0\pro3.runtimeconfig.json
+C:\Users\Apple\Desktop\sample5\pro3\bin\Debug\net7.0\pro3.dll
+C:\Users\Apple\Desktop\sample5\pro3\bin\Debug\net7.0\pro3.pdb
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.AssemblyInfoInputs.cache
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.AssemblyInfo.cs
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.csproj.CoreCompileInputs.cache
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.dll
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\refint\pro3.dll
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.pdb
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\pro3.genruntimeconfig.cache
+C:\Users\Apple\Desktop\sample5\pro3\obj\Debug\net7.0\ref\pro3.dll
