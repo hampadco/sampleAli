@@ -4,6 +4,9 @@ using Microsoft.VisualBasic;
 ///sample Lambda expression
 int[] arr={1,2,3,4,5};
 
+int result=arr.Multiply();
+System.Console.WriteLine(result);
+
 int max=arr.Max();
 int min=arr.Min();
 int sum=arr.Sum();
